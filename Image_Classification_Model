@@ -1,0 +1,3 @@
+!pip install flask_ngrok
+!pip install flask_uploads
+!pip install pip install werkzeug==0.16.0
